@@ -11,3 +11,4 @@ Requirements:
 -Linux OS
 -Internet access for CVE database queries
 
+The executable is called: CveHunter_OmerBirshan
